@@ -8,7 +8,7 @@ const devOnlyPlugins = [getStartedPlugin()]
 
 export default defineConfig({
   name: 'default',
-  title: 'white-jay',
+  title: 'shareit_kishky',
 
   projectId: 'tsnjhwwt',
   dataset: 'production',
